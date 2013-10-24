@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. School", "01. School\01. School.csproj", "{9E38F30B-7FEF-4062-A9E7-7F71C52E1AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Abstract", "02. Abstract\02. Abstract.csproj", "{C98A77F4-7809-477D-BFCD-340A26039C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Animal", "03. Animal\03. Animal.csproj", "{AAA17B39-1887-4B6E-85AD-203BA23B7A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E38F30B-7FEF-4062-A9E7-7F71C52E1AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E38F30B-7FEF-4062-A9E7-7F71C52E1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E38F30B-7FEF-4062-A9E7-7F71C52E1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E38F30B-7FEF-4062-A9E7-7F71C52E1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98A77F4-7809-477D-BFCD-340A26039C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98A77F4-7809-477D-BFCD-340A26039C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98A77F4-7809-477D-BFCD-340A26039C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98A77F4-7809-477D-BFCD-340A26039C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA17B39-1887-4B6E-85AD-203BA23B7A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA17B39-1887-4B6E-85AD-203BA23B7A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA17B39-1887-4B6E-85AD-203BA23B7A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA17B39-1887-4B6E-85AD-203BA23B7A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
